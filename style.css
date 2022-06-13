@@ -1,0 +1,46 @@
+h1 {
+  color: #04009a;
+  margin: 10px;
+}
+h2 {
+  margin: 10px;
+}
+h4 {
+  margin-left: 10px;
+}
+.input-group {
+  margin: 10px;
+  size: 300px;
+}
+.row {
+  text-align: right;
+  text-transform: capitalize;
+  position: relative;
+  top: -52px;
+}
+.fa-solid {
+  font-size: 90px;
+  color: #ffcc00;
+  position: relative;
+  top: -52px;
+}
+
+.card-img-top {
+  size: 20px;
+}
+h5 {
+  text-align: center;
+}
+.card-text {
+  text-align: center;
+}
+button {
+  position: absolute;
+  margin-left: 268px;
+  margin-top: -29px;
+}
+.col-1 {
+  margin-left: 10px;
+  margin-right: 95px;
+  margin-top: 66px;
+}
